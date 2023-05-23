@@ -1,4 +1,9 @@
 ### Hi there 👋
+#### My name is Tiger_Cheng.And I am 12 years now.
+#### I can write Python, Cpp, Go, Javascript, Typescript.
+#### I am learning kotlin and flutter.
+###### you can reach me by email: tiger_pan@outlook.com
+###### (You may refer to me as 0x0025)
 
 <!--
 **0x002500/0x002500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
