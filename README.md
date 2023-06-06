@@ -1,7 +1,6 @@
 ### Hi there 👋
 #### My name is Tiger_Cheng.And I am 12 years now.
-#### I can write Python, Cpp, Go, Javascript, Typescript.
-#### I am learning kotlin and flutter.
+#### I can write Python, Cpp, Go.
 ###### you can reach me by email: tiger_pan@outlook.com
 ###### (You may refer to me as 0x0025)
 
