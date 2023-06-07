@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is 0x002500.And I am 12 years now.
+#### My name is 0x002500.
 
 
 ![I use Visual Studio Code](https://img.shields.io/badge/Editor-VSCode-black?style=for-the-badge)
