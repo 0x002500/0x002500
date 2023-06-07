@@ -1,9 +1,12 @@
 ### Hi there 👋
-#### My name is Tiger_Cheng.And I am 12 years now.
-#### I prefer Python and Go.
-###### you can reach me by email: tiger_pan@outlook.com
-###### (You may refer to me as 0x0025)
+#### My name is 0x002500.And I am 12 years now.
 
+
+![I use Visual Studio Code](https://img.shields.io/badge/Editor-VSCode-black?style=for-the-badge)
+![Follows](https://img.shields.io/github/followers/0x002500?style=for-the-badge)
+![Favorite Language is Go](https://img.shields.io/badge/Favorite%20Programming%20Language-Python-blue?style=for-the-badge)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x002500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x002500)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **0x002500/0x002500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
