@@ -6,7 +6,8 @@
 ![Follows](https://img.shields.io/github/followers/0x002500?style=for-the-badge)
 ![Favorite Language is Go](https://img.shields.io/badge/Favorite%20Programming%20Language-Python-pink?style=for-the-badge)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x002500&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x002500)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x002500&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0x002500)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **0x002500/0x002500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
